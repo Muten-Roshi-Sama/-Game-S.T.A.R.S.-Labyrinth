@@ -1,0 +1,13 @@
+(1,1) , "- LVL3 : toutes les réponses en MINUSCULE."
+(8,1) , "- En 2006, Pluto à été retirée des 9 planètes"
+(7,1) , "du système solaire."
+(7, 5), "- L'oxyde de fer donne sa couleur rouge à mars."
+(9, 15), "- Les russes envoyent Laika dans l'espace"
+(11,17), "en 1957."
+(25, 1), '- Neil Armstong marcha sur la lune en 1969. '
+(17, 5), '- En 25ans, Ariane-5 a été lancée 117 fois.'
+(2, 2), '--------------------Chemin du haut-----------------------------'
+(3, 22), "- Le Big-Bang à eu lieu il y'a 13.6milliards"
+(3, 21), "d'années."
+(9, 19), '- Sur Venus il fait 462°C en moyenne.'
+(1, 15), ''

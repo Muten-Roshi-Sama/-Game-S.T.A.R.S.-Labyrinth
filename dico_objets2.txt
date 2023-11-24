@@ -1,0 +1,7 @@
+(1,1) , "- LVL2 : toutes les réponses en MINUSCULE."
+(1, 15), 'Indice 1 : le rayon'
+(11, 7), "indice2 : sur le visage"
+(11, 17), '- En 1986, la comète de Halley a été vue.'
+(11, 17), 'Halley orbite autour du soleil en 75ans.'
+(23, 5), "indice5 : Un 3ème point de vue aide toujours."
+(0,0) , "En 2006, pluto à été retirée des 9 planètes que constituaient notre système solaire"

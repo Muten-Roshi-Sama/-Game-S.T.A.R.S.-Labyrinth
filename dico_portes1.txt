@@ -1,0 +1,8 @@
+(3, 4), ('De quelle couleur est le ciel ?', 'bleu')
+(3, 8), ("Combien de planètes y'a t-il dans le système solaire ?", "8")
+(8, 7), ("Y a-t'il de l'eau sur Mars ? A.Non, B.Oui", 'b')
+(11, 4), ("Quel planète est aussi appelée la planète rouge? A. Mercure, B. Saturne, C. Pluton, D. Mars", 'd')
+(9, 14), ("De quelle couleur sont les étoiles les plus chaudes ? A.jaunes, B. rouges, C.Bleues", 'c')
+(12, 1), ("Quel est l'objet qui a le plus de gravité dans l'Univers? A.un trou noir, B.une étoile supergéante, C.un pulsar?", 'a')
+(12, 17), ('Sur quelle planète pleut-il des diamants ? A. Saturne, B.Neptune, C. Uranus ?', 'a')
+(16, 15),("Quelle est la plus grosse planète du système solaire? A. Terre, B. Jupiter, C. Saturne", 'b')

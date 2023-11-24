@@ -1,0 +1,9 @@
+(1,1) , "- LVL1 : toutes les réponses en MINUSCULE."
+(1, 15), 'Indice 1 : le rayon'
+(11, 7), "indice2 :"
+(7, 15), "- De chaud à froid : bleu, jaune, rouge"
+(9, 15), '- Il pleut des diamants sur la planète'
+(11,17), 'avec de anneaux.'
+(7, 5), "- L'univer en entier tourne autour d'un trou noir."
+(17, 5), "- Jupiter est la plus grande des planètes."
+(18, 11), "yolo"
